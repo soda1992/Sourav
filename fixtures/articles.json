@@ -1,0 +1,39 @@
+{
+    "articles": [
+      {
+        "slug": "Azad6-67439",
+        "title": "Azad6",
+        "description": "dthgddhg7855",
+        "body": "xfgdhgdbhgfjhfj",
+        "tagList": [],
+        "createdAt": "2022-07-20T08:50:25.021Z",
+        "updatedAt": "2022-07-20T08:50:25.021Z",
+        "favorited": false,
+        "favoritesCount": 0,
+        "author": {
+          "username": "soda92",
+          "bio": null,
+          "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+          "following": false
+        }
+      },
+      {
+        "slug": "Azad5-67439",
+        "title": "Azad5",
+        "description": "dthgddhg7855",
+        "body": "xfgdhgdbhgfjhfj",
+        "tagList": [],
+        "createdAt": "2022-07-20T08:11:32.319Z",
+        "updatedAt": "2022-07-20T08:11:32.319Z",
+        "favorited": false,
+        "favoritesCount": 1,
+        "author": {
+          "username": "soda92",
+          "bio": null,
+          "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+          "following": false
+        }
+      }
+    ],
+    "articlesCount": 10
+  }
